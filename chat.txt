@@ -25,3 +25,21 @@ Categorical (Low Cardinality)
 preferred_contact (3 unique, Email dominates)
 account_status_code (5 unique - verify no leakage!)
 referral_code (7,805 unique - transform first)
+
+
+['monthly_free_cash_flow',
+ 'credit_score',
+ 'loan_to_annual_income',
+ 'has_mobile_app',
+ 'annual_income',
+ 'monthly_income',
+ 'paperless_billing',
+ 'marital_status_Married',
+ 'payment_to_income_ratio',
+ 'debt_service_ratio',
+ 'employment_type_Full-time',
+ 'debt_to_income_ratio',
+ 'age',
+ 'available_credit',
+ 'origination_channel_Online',
+ 'oldest_account_age_months']
