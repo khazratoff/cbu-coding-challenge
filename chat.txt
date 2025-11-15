@@ -1,0 +1,27 @@
+✅ FEATURES TO KEEP
+High-Priority Predictors
+
+credit_score (716 mean, 534-850 range)
+num_delinquencies_2yrs (handle 832 missing values!)
+num_public_records (7.3% have records)
+num_inquiries_6mo (drop the duplicate)
+total_credit_limit (wide range: 10k-500k)
+num_credit_accounts (mean 9.4)
+
+Account History
+
+oldest_account_age_months (drop the year version)
+account_open_year (2010-2023)
+
+Behavioral
+
+num_login_sessions (1-34, mean 8.8)
+num_customer_service_calls (0-11, mean 2)
+has_mobile_app (71.3% have it)
+paperless_billing (62% use it)
+
+Categorical (Low Cardinality)
+
+preferred_contact (3 unique, Email dominates)
+account_status_code (5 unique - verify no leakage!)
+referral_code (7,805 unique - transform first)
