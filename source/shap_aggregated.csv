@@ -1,0 +1,68 @@
+feature,shap_abs_mean
+credit_score,0.45168631781313645
+age,0.32181837224611437
+monthly_free_cash_flow,0.25555705510170434
+monthly_income,0.25484611840726035
+annual_income,0.17008710681067418
+credit_utilization,0.13880241034940827
+interest_rate,0.11960676829952177
+debt_to_income_ratio,0.10889627435979264
+regional_unemployment_rate,0.10858916793514058
+total_debt_amount,0.09668705554894226
+num_credit_accounts,0.09455161361887726
+payment_to_income_ratio,0.09014456350836912
+employment_length,0.09000417460504187
+regional_median_rent,0.08832138124256393
+account_diversity_index,0.08603379527424906
+debt_service_ratio,0.07882432590220953
+housing_price_index,0.07854402140108895
+total_credit_limit,0.07326507176422041
+oldest_account_age_months,0.07113090596642503
+existing_monthly_debt,0.0703489503802073
+total_monthly_debt_payment,0.069312530348041
+application_hour,0.06604197600091419
+monthly_payment,0.06509929263837962
+cost_of_living_index,0.06480463496792224
+loan_to_annual_income,0.06478107229164837
+num_customer_service_calls,0.060178940132644056
+available_credit,0.05615598554411739
+credit_usage_amount,0.05272630895004674
+loan_type_Personal,0.05154249801439684
+num_dependents,0.050966073254510726
+regional_median_income,0.047657005724261584
+account_open_year,0.04633465214236552
+num_inquiries_6mo,0.04421466769054798
+loan_to_value_ratio,0.04274454668273374
+origination_channel_Direct Mail,0.03912205067717562
+loan_amount,0.038875193005043975
+application_day_of_week,0.03477373085696522
+num_login_sessions,0.03467398977738473
+num_public_records,0.03391237652822775
+annual_debt_payment,0.030268935139956748
+origination_channel_Online,0.02915201542777458
+has_mobile_app,0.025263619448367546
+paperless_billing,0.024754194686618356
+origination_channel_Broker,0.022958613712464004
+marital_status_Married,0.020535499984782137
+loan_term,0.019499277095981624
+education_High School,0.01836095039699481
+education_Bachelor,0.01793606125089275
+num_delinquencies_2yrs,0.014182020381621955
+employment_type_Full-time,0.014108343847535738
+preferred_contact_Phone,0.011620079909064938
+employment_type_Part-time,0.011487618770365237
+loan_purpose_Major Purchase,0.010822507558143782
+loan_purpose_Refinance,0.009918184740760843
+preferred_contact_Mail,0.009530624436533765
+loan_purpose_Home Purchase,0.009075871506794684
+employment_type_Self-employed,0.008377062580565975
+loan_type_Mortgage,0.007471145939680885
+loan_purpose_Home Improvement,0.007402340328342013
+education_Graduate,0.006893460246965031
+marital_status_Single,0.006490313009711759
+loan_purpose_Other,0.005918202994374529
+num_collections,0.0041301069666787055
+loan_type_Home Loan,0.003831940152696734
+education_Some College,0.002290767911431573
+loan_purpose_Medical,0.001464621892700348
+loan_purpose_Revolving Credit,0.0009124339438126903
